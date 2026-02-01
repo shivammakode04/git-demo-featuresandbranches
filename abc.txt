@@ -1,4 +1,8 @@
 feature 1 bug is fixed mean bug1fixed
 feature 2 of this repo
 feature 3 of this repo
+<<<<<<< HEAD
 feature 4 of this repo
+=======
+bugfix2
+>>>>>>> main
