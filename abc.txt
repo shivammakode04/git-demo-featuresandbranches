@@ -1,4 +1,4 @@
-feature 1 of this repo
+feature 1 bug is fixed mean bug1fixed
 feature 2 of this repo
 feature 3 of this repo
 feature 4 of this repo
